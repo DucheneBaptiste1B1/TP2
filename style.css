@@ -1,8 +1,10 @@
 #container
 {
 	margin: 0 30px;
-	background: pink;
+	background: red;
 	font-style : italic;
+	color: yellow;
+	font-family : arial;
 }
 
 #header
@@ -63,7 +65,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: green;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -76,8 +78,8 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	-webkit-box-shadow: 0px 0px 6px #FFFFFF;
+	box-shadow: 0px 0px 6px #FFFFFF;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -89,7 +91,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: green;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
